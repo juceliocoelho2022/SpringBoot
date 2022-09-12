@@ -1,0 +1,5 @@
+package com.juceliocoelho.algalog.domain.model;
+
+public class Cliente {
+
+}
